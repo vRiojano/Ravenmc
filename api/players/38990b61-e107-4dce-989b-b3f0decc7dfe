@@ -1,0 +1,13 @@
+{ 
+   "uuid":"38990b61-e107-4dce-989b-b3f0decc7dfe",
+   "username":null,
+   "cosmetics":{ 
+      "Minecon_2019":{ 
+         "name":"Minecon_2019",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"Minecon_2019"
+      }
+   }
+}

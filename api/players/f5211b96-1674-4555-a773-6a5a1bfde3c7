@@ -1,0 +1,20 @@
+{ 
+   "uuid":"f5211b96-1674-4555-a773-6a5a1bfde3c7",
+   "username":null,
+   "cosmetics":{ 
+      "2016":{ 
+         "name":"2016",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"2016"
+     },
+     "2011":{ 
+         "name":"2011",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"2011"
+      }
+   }
+}
